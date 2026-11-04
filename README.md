@@ -24,7 +24,7 @@
 <!--                       ABOUT ME                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `$ whoami`
+## `01. About Me`
 
 ```python
 class Developer:
@@ -49,7 +49,7 @@ I believe in learning by building, solving meaningful problems, and turning comp
 <!--                    CURRENT FOCUS                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `$ cat current_focus.txt`
+## `02. What I'm Working On`
 
 <table>
 <tr>
@@ -82,7 +82,7 @@ I believe in learning by building, solving meaningful problems, and turning comp
 <!--                       TECH STACK                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `$ ls tech_stack/`
+## `03. Technology Stack`
 
 <div align="center">
 
@@ -114,56 +114,56 @@ I believe in learning by building, solving meaningful problems, and turning comp
 <!--                        AI / ML                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `$ ./explore_ai.sh`
+
+## 04. AI & Machine Learning
+
+<p align="center">
+  <b>EXPLORING THE FRONTIER OF INTELLIGENCE</b>
+</p>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/LLMs-Large_Language_Models-161B22?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-161B22?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LLMs-Large_Language_Models-161B22?style=flat-square&logo=openai&logoColor=white" alt="Large Language Models"/>
-<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-161B22?style=flat-square&logo=databricks&logoColor=white" alt="Retrieval Augmented Generation"/>
-<img src="https://img.shields.io/badge/AI_Agents-Agentic_Systems-161B22?style=flat-square&logo=probot&logoColor=white" alt="AI Agents"/>
-<img src="https://img.shields.io/badge/GenAI-Generative_AI-161B22?style=flat-square&logo=google&logoColor=white" alt="Generative AI"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Machine_Learning-161B22?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Deep_Learning-161B22?style=flat-square&logo=pytorch&logoColor=white" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/Transformers-161B22?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers"/>
-<img src="https://img.shields.io/badge/NLP-161B22?style=flat-square&logo=spacy&logoColor=white" alt="Natural Language Processing"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-161B22?style=flat-square&logo=anthropic&logoColor=white" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/AI_Agents-Agentic_Systems-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/GenAI-Generative_AI-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/ML-Machine_Learning-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/DL-Deep_Learning-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transformers-Architecture-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-161B22?style=flat-square"/>
 
 </div>
 
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                      GITHUB STATS                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `$ git status --stats`
+
+## 05. GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adeel-asghar1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF&text_color=8B949E&ring_color=58A6FF&include_all_commits=true" alt="Adeel's GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeel-asghar1&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&langs_count=8" alt="Most Used Languages"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=adeel-asghar1&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF" alt="GitHub Contribution Streak"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=adeel-asghar1&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF" alt="GitHub Contribution Streak"/>
+<a href="https://github.com/adeel-asghar1?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   CONTRIBUTION GRAPH                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `$ git log --graph`
+## `06. Contribution Activity`
 
 <div align="center">
 
@@ -177,7 +177,7 @@ I believe in learning by building, solving meaningful problems, and turning comp
 <!--                        CONNECT                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `$ ping adeel`
+## `07. Let's Connect`
 
 <div align="center">
 
