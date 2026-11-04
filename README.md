@@ -163,21 +163,12 @@ I believe in learning by building, solving meaningful problems, and turning comp
 <!--                   CONTRIBUTION GRAPH                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `06. Contribution Activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adeel-asghar1&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                        CONNECT                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## `07. Let's Connect`
+## `06. Let's Connect`
 
 <div align="center">
 
