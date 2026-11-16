@@ -14,8 +14,6 @@
 <br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=adeel-asghar1&style=flat&color=0D1117&label=PROFILE+VIEWS)](https://github.com/adeel-asghar1)
-[![GitHub Followers](https://img.shields.io/github/followers/adeel-asghar1?style=flat&color=0D1117&label=FOLLOWERS)](https://github.com/adeel-asghar1?tab=followers)
-
 </div>
 
 ---
