@@ -35,9 +35,9 @@ class Developer:
         return "Welcome to my digital workspace."
 ```
 
-I'm a software developer passionate about building **modern web applications** and **intelligent AI-powered systems**.
+I'm learning to build **modern web applications** and **intelligent AI-powered systems**.
 
-My interests lie at the intersection of software engineering and artificial intelligence — from designing scalable backend architectures to experimenting with LLMs, RAG pipelines, and autonomous AI agents.
+My interests lie  in with LLMs, RAG pipelines, and autonomous AI agents.
 
 I believe in learning by building, solving meaningful problems, and turning complex ideas into practical solutions.
 
@@ -90,7 +90,7 @@ I believe in learning by building, solving meaningful problems, and turning comp
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="React, Next.js, HTML, CSS, Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="React, Next.js, Tailwind CSS"/>
 
 ### Backend
 
@@ -98,11 +98,11 @@ I believe in learning by building, solving meaningful problems, and turning comp
 
 ### Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,docker,git,github&theme=dark" alt="PostgreSQL, Supabase, MongoDB, Redis, Docker, Git, GitHub"/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,docker,git,github&theme=dark" alt="PostgreSQL, Supabase, MongoDB, Redis"/>
 
 ### Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,linux,bash&theme=dark" alt="VS Code, Visual Studio, Postman, Linux, Bash"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,linux,bash&theme=dark" alt="VS Code, Postman, Linux, Bash"/>
 
 </div>
 
@@ -130,8 +130,6 @@ I believe in learning by building, solving meaningful problems, and turning comp
 <img src="https://img.shields.io/badge/GenAI-Generative_AI-161B22?style=flat-square"/>
 <img src="https://img.shields.io/badge/ML-Machine_Learning-161B22?style=flat-square"/>
 <img src="https://img.shields.io/badge/DL-Deep_Learning-161B22?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-161B22?style=flat-square"/>
-<img src="https://img.shields.io/badge/Transformers-Architecture-161B22?style=flat-square"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-161B22?style=flat-square"/>
 
 </div>
