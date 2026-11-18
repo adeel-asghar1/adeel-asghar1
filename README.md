@@ -102,7 +102,7 @@ I believe in learning by building, solving meaningful problems, and turning comp
 
 ### Tools & Environment
 
-<img src="https://skillicons.dev/icons?ipostman,linux,bash&theme=dark" alt="VS Code, Postman, Linux, Bash"/>
+<img src="https://skillicons.dev/icons?i=postman,linux,bash&theme=dark" alt="VS Code, Postman, Linux, Bash"/>
 
 </div>
 
