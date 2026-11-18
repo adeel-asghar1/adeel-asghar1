@@ -90,7 +90,7 @@ I believe in learning by building, solving meaningful problems, and turning comp
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="React, Next.js, Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="React, Next.js, Tailwind CSS"/>
 
 ### Backend
 
@@ -98,11 +98,11 @@ I believe in learning by building, solving meaningful problems, and turning comp
 
 ### Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,docker,git,github&theme=dark" alt="PostgreSQL, Supabase, MongoDB, Redis"/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,redis,github&theme=dark" alt="PostgreSQL, Supabase, MongoDB, Redis"/>
 
 ### Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,linux,bash&theme=dark" alt="VS Code, Postman, Linux, Bash"/>
+<img src="https://skillicons.dev/icons?ipostman,linux,bash&theme=dark" alt="VS Code, Postman, Linux, Bash"/>
 
 </div>
 
